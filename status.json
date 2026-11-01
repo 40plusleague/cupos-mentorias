@@ -2,61 +2,61 @@
   "Borja Rodríguez|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-01T14:25:22.813Z",
+    "actualizado": "2026-11-01T19:05:04.399Z",
     "lectura": "desconocido"
   },
   "Borja Rodríguez|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-01T14:25:32.909Z",
+    "actualizado": "2026-11-01T19:05:09.975Z",
     "lectura": "desconocido"
   },
   "Eduardo Salado|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-01T14:25:38.852Z",
+    "actualizado": "2026-11-01T19:05:15.772Z",
     "lectura": "disponible"
   },
   "Eduardo Salado|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-01T14:25:44.648Z",
+    "actualizado": "2026-11-01T19:05:22.100Z",
     "lectura": "disponible"
   },
   "Melina Herzkovich|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-01T14:25:50.610Z",
+    "actualizado": "2026-11-01T19:05:28.100Z",
     "lectura": "desconocido"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-01T14:26:00.641Z",
+    "actualizado": "2026-11-01T19:05:34.248Z",
     "lectura": "desconocido"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-01T14:26:05.833Z",
+    "actualizado": "2026-11-01T19:05:39.986Z",
     "lectura": "desconocido"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-01T14:26:11.704Z",
+    "actualizado": "2026-11-01T19:05:45.326Z",
     "lectura": "desconocido"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-01T14:26:16.826Z",
+    "actualizado": "2026-11-01T19:05:50.611Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-01T14:26:20.791Z",
+    "actualizado": "2026-11-01T19:05:54.929Z",
     "lectura": "disponible"
   }
 }
