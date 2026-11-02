@@ -1,62 +1,62 @@
 {
   "Borja Rodríguez|league": {
-    "estado": "agotado",
+    "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:06.182Z",
-    "lectura": "desconocido"
+    "actualizado": "2026-11-02T13:59:38.431Z",
+    "lectura": "disponible"
   },
   "Borja Rodríguez|accelerator": {
-    "estado": "agotado",
+    "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:16.577Z",
-    "lectura": "desconocido"
+    "actualizado": "2026-11-02T13:59:48.477Z",
+    "lectura": "disponible"
   },
   "Eduardo Salado|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:22.269Z",
+    "actualizado": "2026-11-02T13:59:54.726Z",
     "lectura": "disponible"
   },
   "Eduardo Salado|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:28.295Z",
+    "actualizado": "2026-11-02T13:59:59.724Z",
     "lectura": "disponible"
   },
   "Melina Herzkovich|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:38.514Z",
-    "lectura": "desconocido"
+    "actualizado": "2026-11-02T14:00:09.854Z",
+    "lectura": "disponible"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:44.544Z",
-    "lectura": "desconocido"
+    "actualizado": "2026-11-02T14:00:14.873Z",
+    "lectura": "disponible"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:49.721Z",
+    "actualizado": "2026-11-02T14:00:20.709Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:54.871Z",
+    "actualizado": "2026-11-02T14:00:26.563Z",
     "lectura": "disponible"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:07:59.278Z",
+    "actualizado": "2026-11-02T14:00:33.284Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T09:08:03.294Z",
+    "actualizado": "2026-11-02T14:00:38.253Z",
     "lectura": "disponible"
   }
 }
