@@ -2,61 +2,61 @@
   "Borja Rodríguez|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-02T21:01:20.428Z",
+    "actualizado": "2026-11-02T21:05:44.205Z",
     "lectura": "agotado"
   },
   "Borja Rodríguez|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-02T21:01:24.457Z",
+    "actualizado": "2026-11-02T21:05:48.220Z",
     "lectura": "agotado"
   },
   "Eduardo Salado|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T21:01:29.923Z",
+    "actualizado": "2026-11-02T21:05:52.422Z",
     "lectura": "disponible"
   },
   "Eduardo Salado|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T21:01:33.972Z",
-    "lectura": "disponible"
+    "actualizado": "2026-11-02T21:06:37.451Z",
+    "lectura": "desconocido"
   },
   "Melina Herzkovich|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-02T21:01:38.122Z",
+    "actualizado": "2026-11-02T21:06:41.636Z",
     "lectura": "agotado"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T21:01:42.208Z",
+    "actualizado": "2026-11-02T21:06:45.638Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T21:01:52.229Z",
+    "actualizado": "2026-11-02T21:06:55.645Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-02T21:01:56.297Z",
+    "actualizado": "2026-11-02T21:07:00.657Z",
     "lectura": "agotado"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T21:02:00.289Z",
+    "actualizado": "2026-11-02T21:07:04.604Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T21:02:04.207Z",
+    "actualizado": "2026-11-02T21:07:08.453Z",
     "lectura": "disponible"
   }
 }
