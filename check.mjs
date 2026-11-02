@@ -18,7 +18,7 @@ const LINKS = [
 ];
 const SOLD_OUT = /no se encontraron fechas|no hay fechas disponibles|no dates available|no availability/i;
 const STATUS_FILE = "status.json";
-const CONFIRMACIONES = 2;
+const CONFIRMACIONES = 1;
 
 const prev = (() => { try { return JSON.parse(readFileSync(STATUS_FILE, "utf8")); } catch { return {}; } })();
 const next = {};
