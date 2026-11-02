@@ -37,7 +37,7 @@ for (const l of LINKS) {
     const texto = await page.evaluate(() => document.body.innerText);
     const hayCalendario = (await page.locator("button:has-text('1'), [class*='calendar'], [class*='day']").count()) > 0;
     if (SOLD_OUT.test(texto)) lectura = "agotado";
-    else if (hayCalendario) lectura = "disponible";
+    else if (hayCalendario || /\b\d{1,2}:\d{2}\b/.test(texto) || texto.length > 400) lectura = "disponible";
     await page.screenshot({ path: `debug/${l.programa}-${l.mentor.split(" ")[0]}.png`, fullPage: true });
     writeFileSync(`debug/${l.programa}-${l.mentor.split(" ")[0]}.txt`, texto.slice(0, 3000));
     await page.close();
