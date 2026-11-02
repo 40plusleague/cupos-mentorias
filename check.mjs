@@ -16,7 +16,7 @@ const LINKS = [
   { mentor: "René Zuleta", programa: "league", url: "https://tidycal.com/renezuleta/mentoria-league" },
   { mentor: "René Zuleta", programa: "accelerator", url: "https://tidycal.com/renezuleta/mentoria-accelerator" },
 ];
-const SOLD_OUT = /únete a la lista de espera|join the waitlist|no se encontraron fechas|no hay fechas disponibles|no dates available|no availability/i;
+const SOLD_OUT = /únete a la lista de espera|join the waitlist|no se encontraron fechas|no hay fechas disponibles|no available dates|no available times|no dates found|no dates available|no availability/i;
 const STATUS_FILE = "status.json";
 const CONFIRMACIONES = 1;
 
