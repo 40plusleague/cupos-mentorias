@@ -2,61 +2,61 @@
   "Borja Rodríguez|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-02T16:35:46.561Z",
+    "actualizado": "2026-11-02T16:41:13.775Z",
     "lectura": "agotado"
   },
   "Borja Rodríguez|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-02T16:35:52.874Z",
+    "actualizado": "2026-11-02T16:41:19.649Z",
     "lectura": "agotado"
   },
   "Eduardo Salado|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T16:35:59.137Z",
+    "actualizado": "2026-11-02T16:41:25.590Z",
     "lectura": "disponible"
   },
   "Eduardo Salado|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T16:36:04.865Z",
+    "actualizado": "2026-11-02T16:41:30.392Z",
     "lectura": "disponible"
   },
   "Melina Herzkovich|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-02T16:36:10.862Z",
+    "actualizado": "2026-11-02T16:41:40.571Z",
     "lectura": "agotado"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T16:36:17.100Z",
+    "actualizado": "2026-11-02T16:41:44.839Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T16:36:23.580Z",
+    "actualizado": "2026-11-02T16:41:54.998Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-02T16:36:29.808Z",
+    "actualizado": "2026-11-02T16:42:00.082Z",
     "lectura": "agotado"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T16:36:35.018Z",
+    "actualizado": "2026-11-02T16:42:05.042Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-02T16:36:40.230Z",
+    "actualizado": "2026-11-02T16:42:09.201Z",
     "lectura": "disponible"
   }
 }
