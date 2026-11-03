@@ -2,61 +2,61 @@
   "Borja Rodríguez|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T15:45:54.175Z",
+    "actualizado": "2026-11-03T15:51:11.339Z",
     "lectura": "agotado"
   },
   "Borja Rodríguez|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:00.000Z",
+    "actualizado": "2026-11-03T15:51:16.637Z",
     "lectura": "agotado"
   },
   "Eduardo Salado|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:05.864Z",
+    "actualizado": "2026-11-03T15:51:21.974Z",
     "lectura": "disponible"
   },
   "Eduardo Salado|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:11.615Z",
+    "actualizado": "2026-11-03T15:51:27.235Z",
     "lectura": "disponible"
   },
   "Melina Herzkovich|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:17.259Z",
+    "actualizado": "2026-11-03T15:51:37.343Z",
     "lectura": "agotado"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:23.313Z",
+    "actualizado": "2026-11-03T15:51:44.751Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:28.866Z",
+    "actualizado": "2026-11-03T15:51:49.925Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:34.282Z",
+    "actualizado": "2026-11-03T15:51:55.073Z",
     "lectura": "agotado"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:39.356Z",
+    "actualizado": "2026-11-03T15:52:00.252Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T15:46:44.540Z",
+    "actualizado": "2026-11-03T15:52:04.485Z",
     "lectura": "disponible"
   }
 }
