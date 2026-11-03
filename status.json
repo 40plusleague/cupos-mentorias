@@ -2,61 +2,61 @@
   "Borja Rodríguez|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:00.653Z",
+    "actualizado": "2026-11-03T10:15:55.781Z",
     "lectura": "agotado"
   },
   "Borja Rodríguez|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:06.430Z",
+    "actualizado": "2026-11-03T10:16:06.325Z",
     "lectura": "agotado"
   },
   "Eduardo Salado|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:12.172Z",
+    "actualizado": "2026-11-03T10:16:12.172Z",
     "lectura": "disponible"
   },
   "Eduardo Salado|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:17.790Z",
+    "actualizado": "2026-11-03T10:16:17.807Z",
     "lectura": "disponible"
   },
   "Melina Herzkovich|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:22.264Z",
+    "actualizado": "2026-11-03T10:16:23.382Z",
     "lectura": "agotado"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:26.657Z",
+    "actualizado": "2026-11-03T10:16:28.958Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:32.149Z",
+    "actualizado": "2026-11-03T10:16:34.600Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:37.632Z",
+    "actualizado": "2026-11-03T10:16:40.262Z",
     "lectura": "agotado"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:42.818Z",
+    "actualizado": "2026-11-03T10:16:44.671Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T10:11:47.152Z",
+    "actualizado": "2026-11-03T10:16:49.037Z",
     "lectura": "disponible"
   }
 }
