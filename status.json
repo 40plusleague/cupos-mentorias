@@ -2,61 +2,61 @@
   "Borja Rodríguez|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T16:05:48.186Z",
+    "actualizado": "2026-11-03T16:10:58.368Z",
     "lectura": "agotado"
   },
   "Borja Rodríguez|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T16:05:53.716Z",
+    "actualizado": "2026-11-03T16:11:11.681Z",
     "lectura": "agotado"
   },
   "Eduardo Salado|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T16:06:03.269Z",
+    "actualizado": "2026-11-03T16:11:17.382Z",
     "lectura": "disponible"
   },
   "Eduardo Salado|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T16:06:08.872Z",
+    "actualizado": "2026-11-03T16:11:23.011Z",
     "lectura": "disponible"
   },
   "Melina Herzkovich|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T16:06:14.514Z",
+    "actualizado": "2026-11-03T16:11:34.453Z",
     "lectura": "agotado"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T16:06:24.817Z",
+    "actualizado": "2026-11-03T16:11:40.060Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T16:06:37.692Z",
+    "actualizado": "2026-11-03T16:11:45.401Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-03T16:06:43.107Z",
+    "actualizado": "2026-11-03T16:11:58.629Z",
     "lectura": "agotado"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T16:06:47.373Z",
+    "actualizado": "2026-11-03T16:12:02.804Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-03T16:06:51.699Z",
+    "actualizado": "2026-11-03T16:12:07.023Z",
     "lectura": "disponible"
   }
 }
