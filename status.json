@@ -2,61 +2,61 @@
   "Borja Rodríguez|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-05T01:25:47.879Z",
+    "actualizado": "2026-11-05T01:31:09.001Z",
     "lectura": "agotado"
   },
   "Borja Rodríguez|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-05T01:25:53.419Z",
+    "actualizado": "2026-11-05T01:31:14.212Z",
     "lectura": "agotado"
   },
   "Eduardo Salado|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-05T01:25:59.273Z",
+    "actualizado": "2026-11-05T01:31:19.464Z",
     "lectura": "disponible"
   },
   "Eduardo Salado|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-05T01:26:04.817Z",
+    "actualizado": "2026-11-05T01:31:23.664Z",
     "lectura": "disponible"
   },
   "Melina Herzkovich|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-05T01:26:10.261Z",
+    "actualizado": "2026-11-05T01:31:29.141Z",
     "lectura": "agotado"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-05T01:26:15.532Z",
+    "actualizado": "2026-11-05T01:31:39.946Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-05T01:26:20.827Z",
+    "actualizado": "2026-11-05T01:31:44.055Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-05T01:26:26.092Z",
+    "actualizado": "2026-11-05T01:31:49.234Z",
     "lectura": "agotado"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-05T01:26:30.317Z",
+    "actualizado": "2026-11-05T01:31:55.142Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-05T01:26:34.713Z",
+    "actualizado": "2026-11-05T01:32:00.228Z",
     "lectura": "disponible"
   }
 }
