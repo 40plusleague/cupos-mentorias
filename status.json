@@ -2,61 +2,61 @@
   "Borja Rodríguez|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:01.613Z",
+    "actualizado": "2026-11-26T00:23:42.436Z",
     "lectura": "agotado"
   },
   "Borja Rodríguez|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:05.833Z",
+    "actualizado": "2026-11-26T00:23:46.407Z",
     "lectura": "agotado"
   },
   "Eduardo Salado|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:10.150Z",
+    "actualizado": "2026-11-26T00:23:50.483Z",
     "lectura": "agotado"
   },
   "Eduardo Salado|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:14.385Z",
+    "actualizado": "2026-11-26T00:23:54.519Z",
     "lectura": "agotado"
   },
   "Melina Herzkovich|league": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:18.748Z",
+    "actualizado": "2026-11-26T00:23:58.415Z",
     "lectura": "agotado"
   },
   "Melina Herzkovich|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:22.705Z",
+    "actualizado": "2026-11-26T00:24:02.317Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:33.177Z",
+    "actualizado": "2026-11-26T00:24:12.422Z",
     "lectura": "disponible"
   },
   "Cynthia Robotti|accelerator": {
     "estado": "agotado",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:37.257Z",
+    "actualizado": "2026-11-26T00:24:16.541Z",
     "lectura": "agotado"
   },
   "René Zuleta|league": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:42.314Z",
+    "actualizado": "2026-11-26T00:24:20.612Z",
     "lectura": "disponible"
   },
   "René Zuleta|accelerator": {
     "estado": "disponible",
     "racha": 0,
-    "actualizado": "2026-11-25T16:10:46.297Z",
+    "actualizado": "2026-11-26T00:24:24.763Z",
     "lectura": "disponible"
   }
 }
